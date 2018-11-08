@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Application: Data Driven Decision Making with SQL
 
 ```yaml
 type: VideoExercise
